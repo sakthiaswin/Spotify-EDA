@@ -49,7 +49,6 @@ This analysis provides valuable insights into the characteristics of Spotify mus
 4. Run the provided code in a Python environment or Jupyter Notebook.
 
 ## Credits
-- Data Source: [Kaggle - Spotify Data](https://www.kaggle.com/)
 - Libraries Used: Pandas, Matplotlib, Seaborn, Plotly
 
 ## References
